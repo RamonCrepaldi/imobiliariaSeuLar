@@ -70,10 +70,6 @@
 	</types>
 	<types>
 		<members>*</members>
-		<name>Certificate</name>
-	</types>
-	<types>
-		<members>*</members>
 		<name>ChannelLayout</name>
 	</types>
 	<types>
